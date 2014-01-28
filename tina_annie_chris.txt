@@ -1,3 +1,5 @@
+tina chris annie
+
 yay...I did it!!!
 
 I learned how to modify a txt file and save history in git.
